@@ -23,7 +23,7 @@ variables:
   # DO NOT TOUCH
 
   # For pipeline reference
-  resource_group: aml120567
+  resource_group: aml120567rg
   aml_workspace: Azuremlws331
   application_insights: azuremlws3312171527772
   key_vault: azuremlws3314822384114
